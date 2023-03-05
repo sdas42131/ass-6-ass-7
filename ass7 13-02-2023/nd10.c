@@ -1,0 +1,1 @@
+// 10.	Write program, which reads a number and prints “yes” if the given number is prime. If the given number is not a prime then “no” is printed. (Use the program to find smallest factor. The smallest factor of a prime number is equal to itself). 

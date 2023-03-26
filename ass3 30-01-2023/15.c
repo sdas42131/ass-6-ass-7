@@ -1,0 +1,3 @@
+// 15.	Read a, b, c, d, e, f, g, and h. Let ax+by+cz+d=0 be a plane and x2+y2+z2+ex+fy+gz+h=0 be a sphere. Find the area of circle of intersection of the plane and the sphere. e.g. input 3 4 12 17 –4 –2 –2  19 output 50.24. Here the center of the sphere is (2,1,1). Its distance from the plane is 3. The radius of the sphere is 5. Hence the radius of the circle of intersection is 4. 
+
+// Could not complete.
